@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/hashtag-generator/static/css/main.ce513211.css",
-    "main.js": "/hashtag-generator/static/js/main.f492cdb3.js",
+    "main.js": "/hashtag-generator/static/js/main.fffc7114.js",
     "static/js/787.a9d03182.chunk.js": "/hashtag-generator/static/js/787.a9d03182.chunk.js",
     "static/media/happy-monkey-all-400-normal.woff": "/hashtag-generator/static/media/happy-monkey-all-400-normal.56b8e290fa1b394cb19a.woff",
     "static/media/happy-monkey-latin-400-normal.woff2": "/hashtag-generator/static/media/happy-monkey-latin-400-normal.4ce4d8f8d2ce135c3d9a.woff2",
     "static/media/happy-monkey-latin-ext-400-normal.woff2": "/hashtag-generator/static/media/happy-monkey-latin-ext-400-normal.f5eb733545c9a4b9bd2f.woff2",
     "index.html": "/hashtag-generator/index.html",
     "main.ce513211.css.map": "/hashtag-generator/static/css/main.ce513211.css.map",
-    "main.f492cdb3.js.map": "/hashtag-generator/static/js/main.f492cdb3.js.map",
+    "main.fffc7114.js.map": "/hashtag-generator/static/js/main.fffc7114.js.map",
     "787.a9d03182.chunk.js.map": "/hashtag-generator/static/js/787.a9d03182.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce513211.css",
-    "static/js/main.f492cdb3.js"
+    "static/js/main.fffc7114.js"
   ]
 }
